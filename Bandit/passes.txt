@@ -10,3 +10,10 @@ level 8 -> level 9: UsvVyFSfZZWbi6wgC7dAFyFuR6jQQUhR
 level 9 -> level 10: truKLdjsbJ5g7yyJ2X2R0o3a5HQJFuLk
 level 10 -> level 11: IFukwKGsFW8MOq3IRFqrxE1hxTNEbUPR
 level 11 -> level 12: 8Te1Y7drgCRfCx1ugdwuEX1KFC9k5EUu
+
+
+
+
+
+
+echo 'Gur cnffjbeq vf 5Gr8L4qetPEsPk8htqjhRK8XSP6x2RHh' | tr [A-Za-z0-9] [N-ZA-M-n-za-m3-90-2]
